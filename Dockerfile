@@ -1,4 +1,5 @@
 FROM python:3.7.2-alpine
+MAINTAINER Elmar Bruckmann
 
 ENV PYTHONUNBUFFERED 1
 
